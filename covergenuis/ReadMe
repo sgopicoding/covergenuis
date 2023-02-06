@@ -1,0 +1,15 @@
+
+
+This folder contains Python Selenium POM and Non POM Code for testing rentalcover.com\
+
+
+
+NotPOM-  This folder contains the non POM solution\
+
+Pages -     This folder contains the page classes for POM solution\
+Tests -       This folder contain the Test class which import pages and do testing.\
+
+
+The solution need to be more refined to remove hard coding of some values and need to add comments where ever necessary.\
+
+
